@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/Caetano-Turra/Curso-Web-Caetano)
+- [Acesse o projeto finalizado, online](https://caetano-turra.github.io/Curso-Web-Caetano/)
 
 ## :memo: Licença
 
